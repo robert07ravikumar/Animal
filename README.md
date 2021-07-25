@@ -1,4 +1,4 @@
-# SHOPPING CART
+# Animal
 
 ## REQUIREMENTS
 * Java 11
@@ -9,7 +9,7 @@
 
 Animal discovery and animal actions
 
-##Execution
+## Execution
 
 The maven and java needs to be added to the classpath to run the below commands.
 
@@ -20,7 +20,7 @@ If you are using an IDE like intellij
 * import the project as Maven Porject
 * Use the Maven lifecycle methods from the maven tool to build and run your test cases.
 
-##API
+## API
 
 Please hit the below apis.
 
