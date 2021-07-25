@@ -19,3 +19,11 @@ If you are using an IDE like intellij
 
 * import the project as Maven Porject
 * Use the Maven lifecycle methods from the maven tool to build and run your test cases.
+
+##API
+
+Please hit the below apis.
+
+http://localhost:8080/findAnimal/shark
+
+http://localhost:8080/findAnimal/shark
